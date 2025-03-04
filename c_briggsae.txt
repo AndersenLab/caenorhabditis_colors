@@ -1,4 +1,4 @@
-Species: 
+Species: #53886C
 
 QX1410: #53886C OR #009E73 - We need to talk about which one
 VX34: #CC799D
