@@ -1,4 +1,0 @@
-Species: #0719BC
-
-JU1373: #F0E442
-NIC58: #0719BC
