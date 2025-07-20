@@ -12,5 +12,8 @@
 **`ECA2373: #B2DF8A`** ![#B2DF8A](https://placehold.co/15x15/b2df8a/b2df8a.png) \
 **`QX1410:  #53886C`** ![#53886C](https://placehold.co/15x15/53886c/53886c.png) \
 **`VX34:    #CC799D`** ![#CC799D](https://placehold.co/15x15/cc799d/cc799d.png) \
-**`PB420:   #53886C`** ![#CC799D](https://placehold.co/15x15/53886C/53886C.png) 
-
+**`PB420:   #53886C`** ![#CC799D](https://placehold.co/15x15/53886C/53886C.png) \
+**`ECA2666: #466EB4`** ![#CC799D](https://placehold.co/15x15/466EB4/466EB4.png) \
+**`ED3102:  #00A0E1`** ![#CC799D](https://placehold.co/15x15/00A0E1/00A0E1.png) \
+**`JU3237:  #F7D42A`** ![#CC799D](https://placehold.co/15x15/F7D42A/F7D42A.png) \
+**`NIC1667: #7C1D6F`** ![#CC799D](https://placehold.co/15x15/7C1D6F/7C1D6F.png)
